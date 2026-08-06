@@ -34,6 +34,30 @@ This repository contains structured Jupyter Notebooks covering TensorFlow fundam
 - Building, compiling, training, and evaluating classification models.
 - Improving classification models through experimentation and tuning.
 
+### 📕 `03_Computer_Vision_With_TensorFlow.ipynb`
+- Introduction to Computer Vision.
+- Loading and preprocessing image datasets.
+- Working with image tensors.
+- Image data augmentation.
+- Building Convolutional Neural Networks (CNNs).
+- Training image classification models.
+- Evaluating CNN performance.
+- Visualizing predictions and model outputs.
+- Improving model accuracy through experimentation.
+- Making predictions on custom images.
+
+### 📓 `04_Transfer_Learning_With_TensorFlow.ipynb` *(Upcoming 🚧)*
+- Introduction to Transfer Learning.
+- Feature Extraction using pre-trained models.
+- Fine-Tuning pretrained neural networks.
+- Using TensorFlow Hub and Keras Applications.
+- EfficientNet, ResNet, and MobileNet architectures.
+- Comparing feature extraction vs fine-tuning.
+- Data augmentation for Transfer Learning.
+- Evaluating and improving transfer learning models.
+- Making predictions on real-world image datasets.
+- Best practices for production-ready image classifiers.
+
 ---
 
 ## 🛠️ Prerequisites & Setup
